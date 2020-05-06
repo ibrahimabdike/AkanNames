@@ -36,7 +36,8 @@ function validateInput(){
   var checkDateValid = ValidateDay();
   var checkMonthValid = ValidateMonth();
 
-  
+  var dayOfWeek = Math.round(( ( (century/4) -2*century-1) + ((5*year/4) ) + ((26*(month+1)/10)) + day) % 7);
+
 
 
 
