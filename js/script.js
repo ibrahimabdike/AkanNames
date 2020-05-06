@@ -33,6 +33,9 @@ function validateInput(){
     }
   }
 
+  var checkDateValid = ValidateDay();
+  var checkMonthValid = ValidateMonth();
+
   
 
 
