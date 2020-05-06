@@ -24,6 +24,19 @@ function validateInput(){
       return true;
     }
   }
+  function ValidateMonth () {
+    if (month < 0 || month > 12) {
+      alert ("Month is not valid");
+      return false;
+    } else {
+      return true;
+    }
+  }
+
+  
+
+
+
 
 
 
