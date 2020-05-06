@@ -16,6 +16,15 @@ function validateInput(){
   }
   var genderValue = genderPicker();
 
+  function ValidateDay () {
+    if (day < 0 || day > 31) {
+      alert("Date is not valid")
+      return false;
+    } else {
+      return true;
+    }
+  }
+
 
 
 
