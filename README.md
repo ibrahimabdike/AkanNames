@@ -16,3 +16,8 @@ Sunday: Akosua  Monday: Adwoa  Tuesday: Abenaa  Wednesday: Akua   Thursday:  Yaa
 The project should take in a user's birthday from the form provided and output the specific Akan Name
 
 
+The project is published using github pages and can be found on the link below
+
+https://ibrahimabdike.github.io/AkanNames/
+
+
